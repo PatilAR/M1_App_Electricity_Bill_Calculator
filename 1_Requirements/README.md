@@ -12,20 +12,6 @@ We use a basic operations and help the users to calculate the number of units co
 
 
 
-# Requirements:-
-
-## Introduction
-
-## Electricity Bill Calculator
-
-A Calculator is a small electronic device used to perform various arithmetic operations like addition, subtraction, multiplication, division, percentage, etc. Also the electricity bill calculator is also the one which calculates and helps the user to enter the units that a meter has consumed.
-
-# Research:-
-
-We use a basic operations and help the users to calculate the number of units consumed by the electricity meter from specific fields.
-
-
-
 ![App Screenshot](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRStOAg2Z-ORipPCgtJ5fXDbyz2kGm9tqFptI6UylTQK1sezvGZ1gyevG7NCNoC0Bn4PWY&usqp=CAU)
 
 # Cost and Features and Timeline:-
