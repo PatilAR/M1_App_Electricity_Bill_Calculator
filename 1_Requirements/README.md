@@ -87,8 +87,6 @@ I am using C programming language for Developing this simple basic Calculator.
 
 ## Low Level Requirements
 
-## High Requirements
-
 | ID             | Description                                                           |
 | ----------------- | ------------------------------------------------------------------ |
 |           |•	If we consider Residential field it will produce output based on the units fixed to that specific field which differ from agriculture field.|
